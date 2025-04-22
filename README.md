@@ -1,1 +1,1 @@
-# fastsam3d-
+# Fastsam3d-CVPR2025
