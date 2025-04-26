@@ -5,6 +5,7 @@ import nibabel as nib
 import numpy as np
 from collections import defaultdict
 
+
 def delete_non_pred4_files(root_dir):
     """
     Recursively delete all files ending with _predX.nii.gz (X ≠ 4),
