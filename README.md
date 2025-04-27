@@ -109,16 +109,7 @@ To validate the distilled student model, run the command below. Ensure your data
 
 ---
 
-### 7 change to `.npz` 
 
-Save the model prediction result `pred4`.(if num_clicks=5) 
-Convert the validation set prediction results (e.g., `.nii.gz`) into `.npz` format, where each file contains `labels.npy` and `spacing.npy`, and save them in a unified output folder.
-
->    ```console
->    python convert_npz.py
->    ```
-
----
 
 ## Citation
 
