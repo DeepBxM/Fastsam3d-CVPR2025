@@ -112,8 +112,8 @@ Below are the links to the docker_file and results for FastSAM3D-CVPR2025 :
 
 | Model                | Download Link |
 |----------------------|---------------|
-| docker_file          | [Download]([https://huggingface.co/techlove/FastSAM3D/tree/main](https://drive.google.com/file/d/1RNqeVXSjUFmTo__qahKY-OMJGubu0fE3/view?usp=drive_link )) |
-| resultsl             | [Download]([https://huggingface.co/blueyo0/SAM-Med3D/blob/main/sam_med3d_turbo.pth](https://drive.google.com/file/d/1rFgAb-lEt9fQ5ikXsULY4XeqQi6piJwL/view?usp=drive_link)) |
+| docker_file          | [Download]([https://huggingface.co/techlove/FastSAM3D/tree/main](https://drive.google.com/file/d/1RNqeVXSjUFmTo__qahKY-OMJGubu0fE3/view?usp=drive_link ) |
+| resultsl             | [Download]([https://huggingface.co/blueyo0/SAM-Med3D/blob/main/sam_med3d_turbo.pth](https://drive.google.com/file/d/1rFgAb-lEt9fQ5ikXsULY4XeqQi6piJwL/view?usp=drive_link) |
 
 ```
 
