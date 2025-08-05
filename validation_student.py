@@ -35,9 +35,8 @@ parser.add_argument('-tdp', '--test_data_path', type=str,
 parser.add_argument('-vp', '--vis_path', type=str,
                     default='/root/autodl-tmp/fastsam3d/results/ceshi')  #
 parser.add_argument('-cp', '--checkpoint_path', type=str,
-                    default="/media/wagnchogn/ssd_2t/lmy/fastsam3d/ckpt/sam_med3d.pth")  # model check point download from provided ckpt link
-parser.add_argument('-tp','--tiny_vit_checkpoint', type=str, default='/media/wagnchogn/ssd_2t/lmy/fastsam3d/ckpt/fastsam3d.pth', help='Path to the image encoder checkpoint') # download from provided ckpt link
- # download from provided ckpt link
+                    default="./ckpt/sam_med3d.pth")  # model check point download from provided ckpt link
+parser.add_argument('-tp','--tiny_vit_checkpoint', type=str, default='./ckpt/fastsam3d.pth', help='Path to the image encoder checkpoint') # download from provided ckpt link
 parser.add_argument('-sn', '--save_name', type=str,
                     default='/root/autodl-tmp/fastsam3d/results/ceshi/val_student_5_new.py')  #
 
